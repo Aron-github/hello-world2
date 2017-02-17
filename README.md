@@ -1,2 +1,3 @@
 # hello-world2
-this is the second one i create
+This is the second "Hello-world" repo I create.
+I have bad memory so I have to repeat tutorials 'till I learn XD
